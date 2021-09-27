@@ -1,5 +1,5 @@
 let cache = {}
-let gauntletNames = ["Fire", "Ice", "Poison", "Shadow", "Lava", "Bonus", "Chaos", "Demon", "Time", "Crystal", "Magic", "Spike", "Monster", "Doom", "Death"]
+let gauntletNames = ["Diamond", "Gold", "Blood", "Ultra", "Glitch", "Hatred", "Hell", "Angel", "Lucky", "Swiftness", "Resistance", "End", "Nether", "Darkness", "Final"]
 
 module.exports = async (app, req, res) => {
 
